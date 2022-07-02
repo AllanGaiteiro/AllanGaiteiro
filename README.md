@@ -69,4 +69,4 @@ Linguagens & Tecnologias:
 [![Gmail Badge](https://img.shields.io/badge/-allansgaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:allansgaiteiro@gmail.com)
 [![GitHub Allan Gaiteiro](https://img.shields.io/github/followers/AllanGaiteiro?label=follow&style=social)](https://github.com/AllanGaiteiro)
 
-![Snake animation](https://github.com/AllanGaiteiro/AllanGaiteiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AllanGaiteiro/allangaiteiro/blob/output/github-contribution-grid-snake.svg)
