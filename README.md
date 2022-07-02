@@ -68,3 +68,5 @@ Linguagens & Tecnologias:
 [![Linkedin: Allan Gaiteiro](https://img.shields.io/badge/-AllanGaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-gaiteiro)](https://www.linkedin.com/in/allan-gaiteiro)
 [![Gmail Badge](https://img.shields.io/badge/-allansgaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:allansgaiteiro@gmail.com)
 [![GitHub Allan Gaiteiro](https://img.shields.io/github/followers/AllanGaiteiro?label=follow&style=social)](https://github.com/AllanGaiteiro)
+
+![Snake animation](https://github.com/stehmorais/stehmorais/blob/output/github-contribution-grid-snake.svg)
