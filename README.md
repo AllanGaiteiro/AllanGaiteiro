@@ -54,11 +54,11 @@ Linguagens & Tecnologias:
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/AllanGaiteiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaiteiro&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaiteiro&theme=dracula&layout=compact&langs_count=7&" />
 </a>
 
 <a href="https://github.com/AllanGaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AllanGaiteiro&theme=dracula&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AllanGaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
 <br/>
