@@ -1,6 +1,6 @@
-# <a href="https://allan-gaiteiro.web.app">**Allan Gaiteiro**</a>Allan Gaiteiro
+# <a href="https://allan-gaiteiro.web.app">**Allan Gaiteiro**</a>
 
-<h3> :man: &nbsp;Sobre mim: </h3><a href="https://allan-gaiteiro.web.app">**Portifolio**</a>
+<h3> :man: &nbsp;Sobre mim: </h3>
 
 - 🎓 &nbsp; Estudando **Sistemas Para Internet** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **SpringBoot**.
