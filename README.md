@@ -1,4 +1,4 @@
-# <a href="https://allan-gaiteiro.web.app">**Allan Gaiteiro**</a>
+# <a href="https://allan-gaiteiro.web.app" target="_blank">**Allan Gaiteiro**</a>
 
 <h3> :man: &nbsp;Sobre mim: </h3>
 
