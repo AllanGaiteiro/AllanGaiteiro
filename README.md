@@ -7,16 +7,40 @@
 
 ## Sobre mim
 
-Olá! Sou um estudante de **Sistemas Para Internet** na [FATEC ARARAS](https://fatecararas.cps.sp.gov.br/) e atualmente estou ampliando meus conhecimentos em **SpringBoot**. Como desenvolvedor, sempre busco projetos desafiadores para que eu possa dar o meu melhor no seu desenvolvimento.
+Olá, sou Allan Gaiteiro, um desenvolvedor Full Stack experiente em Node, TypeScript e Angular, com habilidades em MongoDB, Firebase e GCP. Ajudo meus colegas a crescerem com instruções claras e valorizo a colaboração em equipe. Quero expandir ainda mais meu conhecimento e habilidades como desenvolvedor. Meus hobbies incluem jogos e animes. Vamos criar soluções incríveis juntos?
 
-## Experiência de trabalho
+Entendi, desculpe pela confusão. Aqui está a lista de projetos com um botão no padrão do GitHub contendo o link para cada repositório:
+Claro! Aqui está uma versão mais atraente:
+Claro! Aqui está a nova versão com os links para a página inicial de cada projeto:
 
-Aqui está minha experiência profissional recente:
+## Projetos
 
-### Fullstack Developer 
-[Capital Empreendedor](https://www.capitalempreendedor.com.br/)   •   Período Integral 
+### Clone Playstation Store - Angular
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=angular&logoColor=red)](https://reply-playstation-store-web.web.app/latest) 
+    
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/project-reply-playstation-store-web-angular)
 
-* Linguagens & Tecnologias: `TypeScript`, `Angular`, `MongoDB`, `Firebase`, `GCP` 
+### Organo Peaple - React
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=react&logoColor=61dafb)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/) 
+    
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react)
+
+### VRCursos [Admin] - Angular
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=angular&logoColor=red)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) 
+    
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular)
+
+### VRCursos Service - NestJs
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=node.js&logoColor=white)](https://vr-software-vrcursos-service.herokuapp.com/api/v1/courses) 
+    
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-service-testetecnico-nestJs)
+
+### Meu Portifolio - em Progresso
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://allan-gaiteiro.web.app/) 
+    
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/Meu-Portifolio)
+
+Para criar o link para a página inicial de cada projeto, eu utilizei o badge com ícones dos softwares utilizados em cada projeto (Angular, React, Node.js e Firebase). Além disso, ajustei o estilo para que a cor do ícone combine com o tema do respectivo projeto no Github. Os links foram adicionados ao lado dos botões já existentes. Espero que tenha ficado atraente e adequado às suas necessidades!
 
 ## Habilidades 
 
