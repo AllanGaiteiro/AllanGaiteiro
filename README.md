@@ -21,18 +21,24 @@ Claro! Aqui está a nova versão com os links para a página inicial de cada pro
 [![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/project-reply-playstation-store-web-angular)
 
 ### Organo Peaple - React
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=react&logoColor=61dafb)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/) 
+<!-- 
+[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=react&logoColor=61dafb)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/)
+-->
     
 [![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react)
 
 ### VRCursos [Admin] - Angular
+<!-- 
 [![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=angular&logoColor=red)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) 
-    
+-->
+
 [![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular)
 
 ### VRCursos Service - NestJs
+<!-- 
 [![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=node.js&logoColor=white)](https://vr-software-vrcursos-service.herokuapp.com/api/v1/courses) 
-    
+-->
+ 
 [![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-service-testetecnico-nestJs)
 
 ### Meu Portifolio - em Progresso
