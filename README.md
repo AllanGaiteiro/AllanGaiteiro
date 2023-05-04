@@ -3,8 +3,7 @@
 
 <p align="center">
 <a href="https://allan-gaiteiro.web.app" target="_blank"> 
-<img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="200" height="200" border="0" style="image-rendering: auto;object-fit: cover;
-    object-position: center;"></a> </p>
+<img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="200" height="200" border="0" style="image-rendering: auto;object-fit:cover;object-position: center;"></a> </p>
 
 ## Sobre mim
 
