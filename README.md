@@ -9,10 +9,6 @@
 
 Olá, sou Allan Gaiteiro, um desenvolvedor Full Stack experiente em Node, TypeScript e Angular, com habilidades em MongoDB, Firebase e GCP. Ajudo meus colegas a crescerem com instruções claras e valorizo a colaboração em equipe. Quero expandir ainda mais meu conhecimento e habilidades como desenvolvedor. Meus hobbies incluem jogos e animes. Vamos criar soluções incríveis juntos?
 
-Entendi, desculpe pela confusão. Aqui está a lista de projetos com um botão no padrão do GitHub contendo o link para cada repositório:
-Claro! Aqui está uma versão mais atraente:
-Claro! Aqui está a nova versão com os links para a página inicial de cada projeto:
-
 ## Projetos
 
 <div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);padding: 20px;margin:10px 0px ;">
