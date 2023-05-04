@@ -15,38 +15,47 @@ Claro! Aqui está a nova versão com os links para a página inicial de cada pro
 
 ## Projetos
 
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
+
 ### Clone Playstation Store - Angular
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=angular&logoColor=red)](https://reply-playstation-store-web.web.app/latest) 
-    
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/project-reply-playstation-store-web-angular)
+
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/project-reply-playstation-store-web-angular) [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://reply-playstation-store-web.web.app/latest) 
+
+</div>
+
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
 
 ### Organo Peaple - React
-<!-- 
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=react&logoColor=61dafb)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/)
--->
-    
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react)
+
+
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react)<!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/) --> 
+
+</div>
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
 
 ### VRCursos [Admin] - Angular
-<!-- 
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=angular&logoColor=red)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) 
--->
 
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular)
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular)<!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) --> 
+
+
+</div>
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
 
 ### VRCursos Service - NestJs
-<!-- 
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=node.js&logoColor=white)](https://vr-software-vrcursos-service.herokuapp.com/api/v1/courses) 
--->
- 
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-service-testetecnico-nestJs)
+
+
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-service-testetecnico-nestJs)<!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://vr-software-vrcursos-service.herokuapp.com/api/v1/courses) --> 
+
+</div>
+
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
 
 ### Meu Portifolio - em Progresso
-[![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://allan-gaiteiro.web.app/) 
-    
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/Meu-Portifolio)
 
-Para criar o link para a página inicial de cada projeto, eu utilizei o badge com ícones dos softwares utilizados em cada projeto (Angular, React, Node.js e Firebase). Além disso, ajustei o estilo para que a cor do ícone combine com o tema do respectivo projeto no Github. Os links foram adicionados ao lado dos botões já existentes. Espero que tenha ficado atraente e adequado às suas necessidades!
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/Meu-Portifolio) [![Link para a Página Inicial](https://img.shields.io/badge/P%C3%A1gina%20Inicial-2f2f2f?style=for-the-badge&color=1e3c66)](https://allan-gaiteiro.web.app/) 
+
+</div>
+
 
 ## Habilidades 
 
