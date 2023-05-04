@@ -1,72 +1,88 @@
-# <a href="https://allan-gaiteiro.web.app" target="_blank">**Allan Gaiteiro**</a>
-![WIN_20210204_13_24_37_Pro](https://user-images.githubusercontent.com/64567248/236217921-bfce4b47-09e5-48ad-8ff6-5ec1bdc98fd8.jpg)
 
-<h3> :man: &nbsp;Sobre mim: </h3>
+# Allan Gaiteiro 
 
-- 🎓 &nbsp; Estudando **Sistemas Para Internet** na <a href="https://fatecararas.cps.sp.gov.br/">**FATEC ARARAS**</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **SpringBoot**.
+<p align="center">
+<a href="https://allan-gaiteiro.web.app" target="_blank"> 
+<img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="200" height="200" border="0" style="image-rendering: auto;object-fit: cover;
+    object-position: center;"></a> </p>
 
-Não Busque dinheiro. Busque uma boa empresa, um projeto que te cative, para que vc consiga dar melhor de si, e assim ele te busque.
+## Sobre mim
 
-</br>
+Olá! Sou um estudante de **Sistemas Para Internet** na [FATEC ARARAS](https://fatecararas.cps.sp.gov.br/) e atualmente estou ampliando meus conhecimentos em **SpringBoot**. Como desenvolvedor, sempre busco projetos desafiadores para que eu possa dar o meu melhor no seu desenvolvimento.
 
-### Experiência de trabalho
+## Experiência de trabalho
 
-Abaixo você encontrará minha experiência de trabalho mais recente:
+Aqui está minha experiência profissional recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEofBTKkn8XiQ/company-logo_200_200/0/1636665481554?e=1665014400&v=beta&t=g_2UhC6IK83Uo2ASLMvRj4rMxE9mG0NSBCLQUMiSTaY"/>](https://www.capitalempreendedor.com.br/)
+### Fullstack Developer 
+[Capital Empreendedor](https://www.capitalempreendedor.com.br/)   •   Período Integral 
 
-**FullStack Developer** \
-[**Capital Empreendedor**](https://www.capitalempreendedor.com.br/) • Full-time \
-Linguagens & Tecnologias:  
- `TypeScript`, `Angular`, `MongoDB`, `Firebase`, `GCP`
+* Linguagens & Tecnologias: `TypeScript`, `Angular`, `MongoDB`, `Firebase`, `GCP` 
 
-<br/>
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## Habilidades 
 
-**Aplicações e Dados**
+### Frontend
 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+#### Frameworks JavaScript
 
-**Utilidades**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+#### Frameworks CSS
 
-**DevOps**
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+### Backend 
 
-**Ferramentas de Desenvolvimento**
+#### Linguagens de programação 
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/>
+#### Frameworks 
 
-## **GitHub Estatísticas**
+![Express.js](https://img.shields.io/badge/-Express.js-white?style=for-the-badge&logo=express&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+### Bancos de Dados 
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Utilidades 
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### DevOps 
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### Ferramentas de Desenvolvimento 
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Estatísticas do GitHub 
+
+<div align="center">
 <a href="https://github.com/AllanGaiteiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaiteiro&theme=dracula&layout=compact&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanGaiteiro&theme=vue&show_icons=true" />
 </a>
-
 <a href="https://github.com/AllanGaiteiro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AllanGaiteiro&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanGaiteiro&theme=vue&layout=compact&langs_count=10" />
 </a>
+</div>
 
-<br/>
+## Onde me encontrar 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
-[![Linkedin: Allan Gaiteiro](https://img.shields.io/badge/-AllanGaiteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-gaiteiro)](https://www.linkedin.com/in/allan-gaiteiro)
-[![Gmail Badge](https://img.shields.io/badge/-allansgaiteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:allansgaiteiro@gmail.com)
-[![GitHub Allan Gaiteiro](https://img.shields.io/github/followers/AllanGaiteiro?label=follow&style=social)](https://github.com/AllanGaiteiro)
-
+<p align="center">
+<a href="https://www.linkedin.com/in/allan-gaiteiro"><img src="https://img.shields.io/badge/-Allan%20Gaiteiro-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
+<a href="mailto:allansgaiteiro@gmail.com"><img src="https://img.shields.io/badge/-allansgaiteiro%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> 
+<a href="https://github.com/AllanGaiteiro"><img src="https://img.shields.io/badge/-AllanGaiteiro-24292e?style=for-the-badge&logo=github"/></a>
+</p>
