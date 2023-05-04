@@ -1,6 +1,10 @@
 
 # Allan Gaiteiro 
 
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro) 
+[![Acessar o Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-gaiteiro) 
+[![Acessar o Gmai](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/allan-gaiteiro) 
+
 <p align="center">
 <a href="https://allan-gaiteiro.web.app" target="_blank"> 
 <img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="200" height="200" border="0" style="image-rendering: auto;object-fit:cover;object-position: center;"></a> </p>
