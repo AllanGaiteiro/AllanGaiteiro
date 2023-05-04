@@ -15,7 +15,7 @@ Claro! Aqui está a nova versão com os links para a página inicial de cada pro
 
 ## Projetos
 
-<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
+<div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);padding: 20px;margin:10px 0px ;">
 
 ### Clone Playstation Store - Angular
 
@@ -28,14 +28,14 @@ Claro! Aqui está a nova versão com os links para a página inicial de cada pro
 ### Organo Peaple - React
 
 
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react)<!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/) --> 
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/alura-projeto-organopeaple-estudo-react) [![Link para o Prototipo](https://img.shields.io/badge/Prototipo-ffffff?style=for-the-badge&color=F24E1E)](https://www.figma.com/proto/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?type=design&node-id=134-143&scaling=min-zoom&page-id=134%3A128&starting-point-node-id=134%3A143) <!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/alura-projeto-organopeaple-estudo-react/) --> 
 
 </div>
 <div style="background-color: #2e2e2e; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); padding: 20px;margin:10px 0px ;">
 
 ### VRCursos [Admin] - Angular
 
-[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular)<!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) --> 
+[![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/vrsoftware-vrcursos-front-testetecnico-angular) [![Link para o Prototipo](https://img.shields.io/badge/Prototipo-ffffff?style=for-the-badge&color=F24E1E)](https://www.figma.com/proto/xySk0dp8tY0y0SQQG0CUEu/vr-courses?node-id=10-479&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A235) <!-- [![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/vrsoftware-vrcursos-front-testetecnico-angular/) --> 
 
 
 </div>
