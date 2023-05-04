@@ -1,4 +1,5 @@
 # <a href="https://allan-gaiteiro.web.app" target="_blank">**Allan Gaiteiro**</a>
+![WIN_20210204_13_24_37_Pro](https://user-images.githubusercontent.com/64567248/236217921-bfce4b47-09e5-48ad-8ff6-5ec1bdc98fd8.jpg)
 
 <h3> :man: &nbsp;Sobre mim: </h3>
 
