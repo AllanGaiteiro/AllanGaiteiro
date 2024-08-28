@@ -13,8 +13,13 @@
       <img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="1000"  >
     </td>
     <td>
-      <h2>Uma breve descrição</h2>
-      <p>Olá, sou Allan Gaiteiro, um desenvolvedor Full Stack experiente em Node, TypeScript e Angular, com habilidades em MongoDB, Firebase e GCP. Ajudo meus colegas a crescerem com instruções claras e valorizo a colaboração em equipe. Quero expandir ainda mais meu conhecimento e habilidades como desenvolvedor. Meus hobbies incluem jogos e animes. Vamos criar soluções incríveis juntos?</p>
+      <h2>Vamos criar soluções incríveis juntos?</h2>
+      <p>Olá! Eu sou o Allan Gaiteiro, um desenvolvedor Full Stack com uma paixão por tecnologia e por ajudar as pessoas a crescerem. Vamos criar soluções incríveis juntos?
+      </p>
+      <p>Quando não estou programando, você pode me encontrar jogando jogos como Skyrin, Dragon Age, Palword. Ou assistindo animes, gosto muito de animes. 
+      </p>
+<p>Me segue ai kkk 
+      </p>
     </td>
   </tr>
 </table>
