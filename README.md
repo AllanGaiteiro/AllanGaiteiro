@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="1000"  >
+      <img src="https://firebasestorage.googleapis.com/v0/b/allan-gaiteiro.appspot.com/o/profile2.jpeg?alt=media&token=18f4420e-b3d4-4b97-8db1-8b471f401ff9" alt="Allan Gaiteiro Image" width="500"  >
     </td>
     <td>
       <h2>Vamos criar soluções incríveis juntos?</h2>
