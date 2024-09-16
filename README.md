@@ -56,7 +56,7 @@
 
 [![Repositório no GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllanGaiteiro/teste-anota-ai) 
 [![Link para o Prototipo](https://img.shields.io/badge/Prototipo-ffffff?style=for-the-badge&color=F24E1E)](https://www.figma.com/proto/7nmDG48ShHlJqGDfVlbylJ/Untitled?node-id=1-5&node-type=frame&t=7WWbPVLiDdtPcCgz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) 
-[![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://github.com/AllanGaiteiro/teste-anota-ai)
+[![Link para a Página Inicial](https://img.shields.io/badge/Página%20Inicial-ffffff?style=for-the-badge&color=1e3c66)](https://allangaiteiro.github.io/teste-anota-ai/)
 
 
 </div>
